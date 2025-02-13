@@ -1,0 +1,1 @@
+This is a boilerplate for provisioning an Atlantis service in AWS ECS and creating a custom Atlantis workflow for terragrunt
